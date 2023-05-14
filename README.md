@@ -26,7 +26,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [https://your-live-site-url.com](https://mihaiazzzz.github.io/interactive-rating-component.github.io/]([https://your-live-site-url.com](https://mihaiazzzz.github.io/interactive-rating-component.github.io/))
+- Live Site URL: [https://mihaiazzzz.github.io/interactive-rating-component.github.io/](https://mihaiazzzz.github.io/interactive-rating-component.github.io/)
 
 ## Author
 
